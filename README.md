@@ -6,9 +6,7 @@
 
 ## 🚀 About Me
 
-Full-stack developer building solutions across mobile and web platforms. Working on projects that combine health monitoring, data visualization, and user engagement.
-
-- 🔭 Currently working on **PulseFeed**, **Health-Wellness App**, and **FitDataFlow**
+- 🔭 Currently working on **PulseFeed**
 - 🌱 Exploring Android development, Flask, and interactive web applications
 - 💡 Focused on building scalable applications with clean architecture
 - 🎯 Goal: Create technology that delivers real value to users
@@ -51,15 +49,6 @@ Flask-based mental health support application:
 - Secure authentication system
 
 **Tech Stack:** Python, Flask, JavaScript, HTML/CSS, Jinja2 Templates
-
-### 📈 [FitDataFlow](https://github.com/KalpeshM13/FitDataFlow)
-Health and fitness data visualization platform:
-- Real-time data visualization with interactive charts
-- Fitness metrics tracking and analysis
-- Responsive design for all devices
-- Dynamic data updates and graph rendering
-
-**Tech Stack:** JavaScript, HTML5, CSS3, Chart.js
 
 ## 📫 Connect With Me
 
