@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Evaluation Engine**
+- 🔭 Currently doing course on **Androdi App Development**
 - 🌱 Exploring Android development, Flask, and interactive web applications
 - 💡 Focused on building scalable applications with clean architecture
 - 🎯 Goal: Create technology that delivers real value to users
