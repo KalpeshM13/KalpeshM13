@@ -41,13 +41,12 @@ Personal finance tracker application for Android to manage daily income and expe
 
 ### 📱 [PulseFeed](https://github.com/KalpeshM13/PulseFeed)
 Android application for social networking and content sharing:
-- User authentication and profile management
 - Real-time content feed with engagement features
 - Image and media sharing capabilities
 - Modern Android architecture with MVVM pattern
 - Material Design UI components
 
-**Tech Stack:** Kotlin, Java, Android SDK, Firebase, XML
+**Tech Stack:** Kotlin, Android SDK, XML
 
 ## 📫 Connect With Me
 
