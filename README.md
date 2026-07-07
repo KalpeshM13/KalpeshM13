@@ -29,6 +29,16 @@
 
 ## 📊 Featured Projects
 
+### 🪙 [SpendWise](https://github.com/KalpeshM13/SpendWise)
+Personal finance tracker application for Android to manage daily income and expenses:
+- Real-time balance dashboard tracking total balance, income, and expenses
+- Interactive visual analytics with category-wise breakdown using pie charts
+- Transaction filtering by type and comprehensive details in elegant bottom sheets
+- Immersive edge-to-edge design with dynamic system-wide dark and light mode UI
+- High-performance local Room database with reactive Kotlin Coroutines/Flow updates
+
+**Tech Stack:** Kotlin, Android SDK, Room Database, Coroutines, Flow, MPAndroidChart, Material Design 3
+
 ### 📱 [PulseFeed](https://github.com/KalpeshM13/PulseFeed)
 Android application for social networking and content sharing:
 - User authentication and profile management
@@ -38,16 +48,6 @@ Android application for social networking and content sharing:
 - Material Design UI components
 
 **Tech Stack:** Kotlin, Java, Android SDK, Firebase, XML
-
-### 🧠 [Health-Wellness](https://github.com/KalpeshM13/Health-Wellness)
-Flask-based mental health support application:
-- Anxiety and stress assessment tools with real-time scoring
-- Professional counselor connection system
-- Psychoeducational resources and content
-- User dashboard for tracking mental health journey
-- Secure authentication system
-
-**Tech Stack:** Python, Flask, JavaScript, HTML/CSS, Jinja2 Templates
 
 ## 📫 Connect With Me
 
