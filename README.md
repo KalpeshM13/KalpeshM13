@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently doing course on **Androd App Development**
+- 🔭 Currently doing course on **Android App Development**
 - 🌱 Exploring Android development and Cloud Engineering
 - 💡 Focused on building scalable applications with clean architecture
 - 🎯 Goal: Create technology that delivers real value to users
